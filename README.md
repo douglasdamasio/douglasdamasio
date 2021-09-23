@@ -8,11 +8,6 @@
 
 - 👯 I’m looking to collaborate on [Dracula](https://draculatheme.com/) and [Adminer](https://www.adminer.org/)
 
-- 💬 Ask me about *Python, Javascript, PHP*
-
-- 📫 How to reach me **douglasdamasio18@gmail.com**
+- 💬 Ask me about *Python or Javascript*
 
 - 😄 Nickname: *Doug* 
-
-- ⚡ Fun fact *Open Source Culture*
-

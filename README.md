@@ -4,10 +4,4 @@
 
 - 🔭 I’m currently working on [Nubank](https://nubank.com.br/)
 
-- 🌱 I’m currently learning *Machine Learning, AI and Big Data*
-
 - 👯 I’m looking to collaborate on [Dracula](https://draculatheme.com/) and [Adminer](https://www.adminer.org/)
-
-- 💬 Ask me about *Python or Javascript*
-
-- 😄 Nickname: *Doug* 
